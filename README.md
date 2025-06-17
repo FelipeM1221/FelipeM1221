@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Felipe aqui 👋</h1>
 
 
-- 🌱 Atualmente estudando **.NET, Blazor e Infraestrutura em Cloud**
+- 📘 Atualmente estudando **.NET, Blazor e Infraestrutura em Cloud**
 - 💼 Desenvolvedor BackEnd com foco em **projetos web**
 - ⚙️ Curioso sobre: **Docker, AWS, Clean Architecture**
 
