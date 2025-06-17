@@ -14,6 +14,8 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  
+  <img align="right" alt="CSharp-coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJwbmFjcWhxenpodHNwbGkyajY4Y294am40MTZlYmhwaTNobnVwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="80" style="margin-left: 20px; margin-bottom: 20px;" />
 </div>
 
  <h2>Redes Sociais</h2>
@@ -26,7 +28,7 @@
 <h2>Atividades</h2>
 <p align="center">
   <a href="https://github.com/FelipeM1221">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM1221&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM1221&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM1221&show_icons=true&theme=visual-studio&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM1221&layout=compact&langs_count=8&theme=visual-studio"/>
   </a>
 </p>
