@@ -1,4 +1,10 @@
-## Olá 👋
+<h1 align="center">Olá, eu sou o Felipe 👋</h1>
+
+
+- 🌱 Atualmente estudando **.NET, Blazor e Infraestrutura em Cloud**
+- 💼 Desenvolvedor BackEnd com foco em **projetos web**
+- 🛠️ Stack atual: `.NET • Razor Pages • JavaScript • HTML/CSS`
+- ⚙️ Curioso sobre: **Docker, AWS, Clean Architecture**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,3 +23,10 @@
   <a href = "https://mailto:fm448999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-mateus-917799214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<p align="center">
+  <a href="https://github.com/FelipeM1221">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeM1221&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM1221&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
