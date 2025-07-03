@@ -40,5 +40,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeM1221/FelipeM1221/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
