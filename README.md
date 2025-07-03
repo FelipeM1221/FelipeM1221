@@ -32,3 +32,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeM1221&layout=compact&langs_count=8&theme=visual-studio"/>
   </a>
 </p>
+
+![Snake animation](https://github.com/FelipeM1221/FelipeM1221/blob/output/github-contribution-grid-snake.svg)
